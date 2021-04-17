@@ -1,7 +1,7 @@
 # node-js-poc
 
-# Instalar o express
-npm install --save express
+## Instalar o express
+```npm install --save express```
 
-# Rodar o server
-node server.js
+## Rodar o server
+```node server.js```
